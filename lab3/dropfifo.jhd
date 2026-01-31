@@ -1,0 +1,5 @@
+MODULE dropfifo
+	SUBMODULE dual_core_memory_element
+		INSTANCE XLXI_1
+	SUBMODULE reg9B
+		INSTANCE XLXI_17

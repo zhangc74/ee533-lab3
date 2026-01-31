@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompilers" num="27" delta="unknown" ><arg fmt="%s" index="1">&quot;reg9B.v&quot; line 23 </arg>Illegal redeclaration of &apos;<arg fmt="%s" index="2">FD16CE_MXILINX_reg9B</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompilers" num="27" delta="unknown" ><arg fmt="%s" index="1">&quot;reg9B.v&quot; line 135 </arg>Illegal redeclaration of &apos;<arg fmt="%s" index="2">FD8CE_MXILINX_reg9B</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompilers" num="27" delta="unknown" ><arg fmt="%s" index="1">&quot;reg9B.v&quot; line 199 </arg>Illegal redeclaration of &apos;<arg fmt="%s" index="2">reg9B</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompilers" num="26" delta="unknown" >&quot;<arg fmt="%s" index="1">ids_sim/generic_regs.v</arg>&quot; line <arg fmt="%d" index="2">160</arg> <arg fmt="%s" index="3">Macro reference `LOG2_FUNC is not defined</arg>
+</msg>
+
+</messages>
+
